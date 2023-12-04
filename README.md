@@ -17,21 +17,17 @@ To run the project in your local environment, follow the steps below.
   npm install -g expo-cli
 
 ### Installation
-  -
-   ```bash
-   git clone https://github.com/ugurakcora/ReactNative-PokemonApp.git
-   cd ReactNative-PokemonApp
-   npm install
+    git clone https://github.com/ugurakcora/ReactNative-PokemonApp.git
+    cd ReactNative-PokemonApp
+    npm install
 
 ### Running
-  -
-    ```bash
     expo start
 
 ### Expo Account
 
 To share the project with others and use the Expo Go application, create an Expo account.
--[Go to the Expo website.](https://expo.dev/)
+- [Go to the Expo website.](https://expo.dev/)
 - Choose "Sign Up" or "Log In" in the top right corner.
 - Create an account or log in.
 
@@ -62,21 +58,17 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip 
   npm install -g expo-cli
 
 ### Kurulum
-  -
-   ```bash
-   git clone https://github.com/ugurakcora/ReactNative-PokemonApp.git
-   cd ReactNative-PokemonApp
-   npm install
+     git clone https://github.com/ugurakcora/ReactNative-PokemonApp.git
+     cd ReactNative-PokemonApp
+     npm install
 
 ### Çalıştırma
-  -
-    ```bash
     expo start
 
 ### Expo Hesabı
 
 Projeyi başkalarıyla paylaşmak ve Expo Go uygulamasını kullanmak için bir Expo hesabı oluşturun.
--[Expo web sitesine gidin.](https://expo.dev/)
+- [Expo web sitesine gidin.](https://expo.dev/)
 - Sağ üst köşede "Sign Up" (Kaydol) veya "Log In" (Giriş Yap) seçeneklerinden birini seçin.
 - Hesap oluşturun veya giriş yapın.
 
