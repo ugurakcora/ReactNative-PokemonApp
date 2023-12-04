@@ -1,6 +1,5 @@
-![Video](assets/screenRecord.mp4)
-
 https://github.com/ugurakcora/ReactNative-PokemonApp/assets/45590367/3e1a4ddc-6151-4a58-8a1e-0b0976ae97c0
+
 # EN
 
 # ReactNative-PokemonApp
